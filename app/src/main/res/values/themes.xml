@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.OvelinAdmin" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
